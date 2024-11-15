@@ -1,7 +1,7 @@
 const chalk = require("chalk")
 const fs = require("fs")
 //auto presence update
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = tue//auto tying in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.autoblockmorroco = true //auto block 212 (true to on, false to off)
 global.autokickmorroco = true //auto kick 212 (true to on, false to off) 
@@ -63,7 +63,7 @@ function _0x8e09() {
     }
   }
 }(_0x8e09, 105820), global[_0x1bcf00(146)] = _0x1bcf00(131), global[_0x1bcf00(137)] = _0x1bcf00(150), global[_0x1bcf00(127)] = "2348133729715", global.ownername = _0x1bcf00(138), global[_0x1bcf00(149)] = [_0x1bcf00(129)], global.ownerweb = "https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q", global[_0x1bcf00(153)] = _0x1bcf00(147), global[_0x1bcf00(152)] = _0x1bcf00(147), global.saluran = _0x1bcf00(147), global.themeemoji = "🚹", global.wm = "ᴘᴀᴛʀᴏɴ-ᴍᴅ", global[_0x1bcf00(145)] = _0x1bcf00(136), global[_0x1bcf00(132)] = _0x1bcf00(128), global[_0x1bcf00(141)] = _0x1bcf00(134))
-global.creator = "2348133729715@s.whatsapp.net"
+global.creator = "255677131114@s.whatsapp.net"
 global.bankname = "MONIEPOINT"
 global.banknumber = "5518447058"
 global.bankowner = "FADARE"
